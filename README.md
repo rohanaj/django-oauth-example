@@ -8,9 +8,12 @@
     We can use Django OAuth Toolkit to make a Web OAuth2.0 server. 
     For this example I have used grant_type as password.
     This is a shopping cart app.The Api made in DRF.
-# To include Django-OAuth-Toolkit the following is added to INSTALLED_APPS--
+    
+    
+    
+    To include Django-OAuth-Toolkit the following is added to INSTALLED_APPS =>
     INSTALLED_APPS = (
     ...
     'oauth2_provider',
-)
+    )
 
