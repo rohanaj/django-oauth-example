@@ -10,8 +10,7 @@
     This is a shopping cart app.The Api made in DRF.
     
     
-    
-    To include Django-OAuth-Toolkit the following is added to INSTALLED_APPS =>
+ To include Django-OAuth-Toolkit the following is added to INSTALLED_APPS =>
     INSTALLED_APPS = (
     ...
     'oauth2_provider',
